@@ -1,0 +1,25 @@
+public double Type_advantage_damage_multiplier(string attacking_type, string first_defending_type, string second_defending_type)
+{
+    Dictionary<string, Dictionary<string, double>> typeAdvantages = new Dictionary<string, Dictionary<string, double>>
+    {
+// types have to be lower case
+        {"Normal", new Dictionary<string, double> {{"Rock", 0.5}, {"Ghost", 0}, {"Steel", 0.5}}},
+        {"Fire", new Dictionary<string, double> {{"Grass", 2}, {"Ice", 2}, {"Bug", 2}, {"Steel", 2}, {"Fire", 0.5}, {"Water", 0.5}, {"Rock", 0.5}, {"Dragon", 0.5}}},
+        {"Water", new Dictionary<string, double> {{"Fire", 2}, {"Ground", 2}, {"Rock", 2}, {"Water", 0.5}, {"Grass", 0.5}, {"Dragon", 0.5}}}
+        // Add the rest of the types here...
+    };
+
+    string[] defending_type_array = { first_defending_type, second_defending_type };
+    double[] type_multipliers_array = { 1, 1 }; // Initialize to 1 because it's a multiplier
+
+    for (int i = 0; i < 2; i++)
+    {
+        if (typeAdvantages[attacking_type].ContainsKey(defending_type_array[i]))
+        {
+            type_multipliers_array[i] = typeAdvantages[attacking_type][defending_type_array[i]];
+        }
+    }
+
+    double damage_Multiplier = type_multipliers_array[0] * type_multipliers_array[1];
+    return damage_Multiplier;
+}

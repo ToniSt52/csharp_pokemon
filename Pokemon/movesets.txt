@@ -1,0 +1,1 @@
+{"tackle", "hyper beam", "tri attack", "double slap", "flamethrower", "hydro pump", "solar beam", "thunder", "ice beam", "dynamic punch", "sludge bomb", "earthquake", "air slash", "psybeam", "x scissor", "rock slide", "shadow ball", " dragon pulse", "dark pulse", "flash cannon", "moonblast"}

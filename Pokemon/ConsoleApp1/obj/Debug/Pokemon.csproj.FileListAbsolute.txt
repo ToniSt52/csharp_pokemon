@@ -1,0 +1,7 @@
+C:\Brose\stoecto\OneDrive - Brose Group\Documents\Praxis 3+4\dev\Pokemon\ConsoleApp1\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Brose\stoecto\OneDrive - Brose Group\Documents\Praxis 3+4\dev\Pokemon\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Brose\stoecto\OneDrive - Brose Group\Documents\Praxis 3+4\dev\Pokemon\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Brose\stoecto\OneDrive - Brose Group\Documents\Praxis 3+4\dev\Pokemon\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Brose\stoecto\OneDrive - Brose Group\Documents\Praxis 3+4\dev\Pokemon\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Brose\stoecto\OneDrive - Brose Group\Documents\Praxis 3+4\dev\Pokemon\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Brose\stoecto\OneDrive - Brose Group\Documents\Praxis 3+4\dev\Pokemon\ConsoleApp1\obj\Debug\Pokemon.csprojAssemblyReference.cache

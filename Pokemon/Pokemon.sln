@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon", "ConsoleApp1\Pokemon.csproj", "{F555229A-553E-422F-8DDE-E8947D0DEAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F555229A-553E-422F-8DDE-E8947D0DEAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F555229A-553E-422F-8DDE-E8947D0DEAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F555229A-553E-422F-8DDE-E8947D0DEAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F555229A-553E-422F-8DDE-E8947D0DEAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9395D6-C25B-4A21-B6D5-E2334AAE7A81}
+	EndGlobalSection
+EndGlobal
